@@ -1,0 +1,17 @@
+{
+  "name": "niveo",
+  "version": "1.0.0",
+  "description": "Niveo discord.js extension pack for flybuny",
+  "main": "discord.js",
+  "scripts": {
+    "test": "npm discord.js"
+  },
+  "keywords": [
+    "niveo"
+  ],
+  "author": "Melih AKDEMİR",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
